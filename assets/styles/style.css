@@ -18,7 +18,7 @@ section.landing-page-container {
 }
 
 div.landing-page-wrapper {
-	background: linear-gradient(to bottom right, rgba(241, 241, 241, 0.3), rgba(255, 170, 170, 0.265)), url('../images/rose.jpg') no-repeat center;
+	background: linear-gradient(to bottom right, rgba(241, 241, 241, 0.3), rgba(255, 170, 170, 0.265)), url('../images/rose.png') no-repeat center;
 	font-family: 'monospace', arial, sans-serif;
 	height: 90vh;
 	width: 95%;
@@ -135,7 +135,7 @@ section.admin-panel-container {
 	width: 95%;
 	margin: 5vh 2.5%;
 	position: relative;
-	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('../images/admin-bg.jpg') no-repeat center;
+	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('../images/admin-bg.png') no-repeat center;
 	box-shadow: 15px 15px 35px #999;
 	background-size: cover;
 	overflow: hidden;
@@ -514,7 +514,7 @@ section.quiz-container {
 	width: 95%;
 	margin: 5vh 2.5%;
 	position: relative;
-	background-image: url('../images/rose.jpg');
+	background-image: url('../images/rose.png');
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
@@ -789,7 +789,7 @@ section.final-result-container {
 	margin: 5vh 2.5%;
 	position: relative;
 	box-shadow: 0px 10px 25px #aaa;
-	background-image: url('../images/girl.jpg');
+	background-image: url('../images/girl.png');
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
