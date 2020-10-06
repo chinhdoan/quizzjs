@@ -515,10 +515,11 @@ section.quiz-container {
 	margin: 5vh 2.5%;
 	position: relative;
 	background-image: url('/assets/images/rose.jpg');
-	box-shadow: 0px 10px 25px #aaa;
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
+	box-shadow: 0px 10px 25px #aaa;
+
 	overflow: hidden;
 	animation: fade 0.8s;
 }
@@ -788,8 +789,10 @@ section.final-result-container {
 	margin: 5vh 2.5%;
 	position: relative;
 	box-shadow: 0px 10px 25px #aaa;
-	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)), url('/assets/images/final-bg.jpeg') no-repeat center;
+	background-image: url('/assets/images/girl.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
 	border-radius: 3px;
 	animation: fade 0.8s;
 }
