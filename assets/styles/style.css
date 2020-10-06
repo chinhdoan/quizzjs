@@ -135,7 +135,7 @@ section.admin-panel-container {
 	width: 95%;
 	margin: 5vh 2.5%;
 	position: relative;
-	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('/assets/images/admin-bg.jpg') no-repeat center;
+	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('../images/admin-bg.jpg') no-repeat center;
 	box-shadow: 15px 15px 35px #999;
 	background-size: cover;
 	overflow: hidden;
@@ -514,7 +514,7 @@ section.quiz-container {
 	width: 95%;
 	margin: 5vh 2.5%;
 	position: relative;
-	background-image: url('/assets/images/rose.jpg');
+	background-image: url('../images/rose.jpg');
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
